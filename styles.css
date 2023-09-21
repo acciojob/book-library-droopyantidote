@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
  body {
-            background-color: #f8f8f8;
+            background-color: rgb(46, 204, 113);
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
@@ -28,17 +28,17 @@
             height: auto;
         }
 
-        .book-title {
+        h1 {
             font-weight: bold;
             margin-top: 10px;
         }
 
-        .book-author {
+        h2 {
             color: #777777;
         }
 
         .price-block {
-            color: #2ecc71;
+            background-color: #2ecc71;
             font-weight: bold;
             margin-top: 10px;
         }
