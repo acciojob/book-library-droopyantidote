@@ -37,7 +37,7 @@
             color: #777777;
         }
 
-        p {
+        .price-block {
 			color: rgb(255, 255, 255);
             background-color: #2ecc71;
             font-weight: bold;
